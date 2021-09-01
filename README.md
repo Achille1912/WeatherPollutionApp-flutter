@@ -1,4 +1,4 @@
-# app
+# Weather & Pollution app
 
 A new Flutter project.
 
